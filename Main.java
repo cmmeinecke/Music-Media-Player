@@ -1,4 +1,4 @@
-/* Mp3 Player Program by Cailtin Meinecke
+/* Mp3 Player Program by Caitlin Meinecke
 Creates a function mp3 player that plays mp3 files selected by user
  */
 
